@@ -12,6 +12,8 @@ durante o desenvolvimento da aplicação utilizei diversos conceitos proprios do
 
 Alem de tudo isso aprendi a comunicar diversos componentes passando suas informações por props. Se sinta livre em baixar o projeto e fazer alguma edição
 
+Link do projeto no vercel: https://clone-netflix-flame.vercel.app/
+
 <div style='display: flex;'>
     <img src='./1--netflix.jpg' width='250px'/>
     <img src='./2--netflix.jpg' width='250px'/>
